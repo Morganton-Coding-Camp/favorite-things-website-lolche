@@ -68,3 +68,9 @@ iframe {
   flex-grow: 1;
   padding: 1rem;
 }
+
+.profile-ing (
+max height: 33vh;
+width: auto;
+border-radius: 50%;
+}
