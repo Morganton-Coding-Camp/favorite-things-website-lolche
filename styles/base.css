@@ -70,6 +70,14 @@ iframe {
   padding: 1rem;
 }
 
+.banner {
+  background: url('../images/amazing-astronomy-background-bright-544268.jpg');
+  backround-size: cover;
+  min-height: 50vh;
+  padding: 3rem;
+  text-allign: center;
+}
+
 .profile-img {
   max-height: 33vh;
   width: auto;
